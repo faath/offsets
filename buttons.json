@@ -1,3 +1,35 @@
 {
-  "client.dll": {}
+  "client.dll": {
+    "attack": 33945840,
+    "attack2": 33945984,
+    "back": 33946560,
+    "camin": 36776840,
+    "camout": 36776968,
+    "campitchdown": 36776456,
+    "campitchup": 36776328,
+    "camyawleft": 36776584,
+    "camyawright": 36776712,
+    "duck": 33947280,
+    "forward": 33946416,
+    "input_img_temp_disable": 36582056,
+    "input_img_temp_enable": 36581928,
+    "jump": 33947136,
+    "klook": 36775736,
+    "left": 33946704,
+    "lookatweapon": 36794208,
+    "movedown": 36775608,
+    "moveup": 36775480,
+    "reload": 33945696,
+    "right": 33946848,
+    "showscores": 36793920,
+    "sprint": 33945552,
+    "strafe": 36775864,
+    "turndown": 36775352,
+    "turnleft": 33946128,
+    "turnright": 33946272,
+    "turnup": 36775224,
+    "use": 33946992,
+    "voicerecord": 36771864,
+    "zoom": 36794064
+  }
 }
